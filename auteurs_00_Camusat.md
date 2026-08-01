@@ -55,6 +55,12 @@
   - **Ноэль Моро** (Noël Moreau), прозванный «**le Coq**» (Петух) — на улице Богоматери (*in vico D. Mariae*), под вывеской «Галл» (*sub signo Galli*; игра слов: *gallus* — и «петух», и «галл», что перекликается с прозвищем хозяина).
 - **Год**: **1615** (*M.VI.C.XV*).
 - **Привилегия**: *Cum privilegio Regis* — с королевской привилегией на печать.
+
+> ✅ **Окончательное подтверждение места печати.** В конце тома (PDF-стр. 374) помещён *Extraict du Privilege* — по-французски и без всякой двусмысленности:
+>
+> «*Par grace & Privilege du Roy, est permis à **Iean Griffard, & Noel Moreau, dict le Coq, Imprimeurs à Troyes**, d'imprimer, vendre & distribuer durant le temps & espace de neuf ans, L'histoire des Albigeois, escrite en Latin, par Frere Pierre, Moyne de Cisteaux, au Monastere du Val de Cernay… à peine de six cens livres d'amende… **Données à Paris le 22. Ianvier, mil six cens quinze.***»
+>
+> Грифар и Моро прямо названы **печатниками в Труа**. Заодно объясняется и происхождение прежней ошибки «Париж»: **королевская грамота выдана в Париже** (там канцелярия), а печатали в Труа. Привилегия — на **девять лет**, под штрафом в **600 ливров**.
 - **Место сочинения предисловия**: **Труа** (*Tricassibus, è musæo nostro*), **1 января 1615 года** (*Cal. Ianuarii*).
 
 ### Состав издания
