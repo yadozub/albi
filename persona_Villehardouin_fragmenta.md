@@ -1,6 +1,6 @@
 # Виллардуэн — выдержки про Симона де Монфора и Ги де Сернэ
 
-Все фрагменты — из *Mémoires de Geoffroi de Villehardouin / Histoire de la conquête de Constantinople*. Полный текст: см. Wikisource (ссылки в `auteurs_01_Villehardouin.md`).
+Все фрагменты — из *Mémoires de Geoffroi de Villehardouin / Histoire de la conquête de Constantinople*. Полный текст: см. Wikisource (ссылки в `persona_Villehardouin.md`).
 
 Нумерация параграфов соответствует классическому делению по изданию Wailly / Faral.
 
