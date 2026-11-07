@@ -260,8 +260,8 @@ DE hæresi populicana omnium hæ-
 | Ebrardus Bethuniensis | Эбрар Бетюнский, † ок. 1212 | *Liber antihaeresis* |
 | Bernardus Abbas Fontis-calidi | Бернар, аббат Фонкальди (Fontcaude), † 1192 | *Adversus Vallenses et Arianos* |
 | Ermengardus | Ermengaud, монах Сен-Жиля | *Contra haereticos qui dicunt et credunt mundum istum et omnia visibilia non esse a Deo facta* |
-| Ioan. Massoni | Жан Массон (Jean Masson), архидиакон, брат Жана Папир Массона | (французское издание хроники, до 1615) |
-| Grethserus | Якоб Гретсер (Jakob Gretser, SJ), 1562–1625 | латинский издатель источников; *Petri Vallium-Sarnaii Historia Albigensium* (Ingolstadt, 1614) |
+| Ioan. Massoni | Жан Массон (Jean Masson), архидиакон, брат Жана Папир Массона | издатель Алана Лилльского и др. антиеретических трактатов (Париж, 1612) → `persona_Masson.md` |
+| Grethserus | Якоб Гретсер (Jakob Gretser, SJ), 1562–1625 | латинский издатель антиеретического корпуса: Лука Туйский (1612, в его кругу); «Trias» — Эбрар, Бернард Фонкальдский, Эрменгард (1613/14) → `persona_Gretser.md` |
 | Gaufridus de Villehardouin | Жоффруа де Виллардуэн, ~1150–1213 | *La conquête de Constantinople* (лат. *De expeditione Byzantina*) |
 | Tilius (Jean du Tillet) | Жан дю Тийе, † 1570 | хронограф, издатель средневековых хроник |
 | Glaber Radulfus | Радульф Глабер, ~985–1047 | *Historiarum sui temporis libri V* |
