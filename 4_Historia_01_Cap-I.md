@@ -1,10 +1,10 @@
 # Historia Albigensis — Cap. I
 
-> Корпус хроники Петра де Сернэ, глава первая: **стр. 1–2** пагинации корпуса (+ два слога на стр. 3) = PDF-стр. 33–35 подлинника. Первый текст самой хроники после Пролога (`3_Prologus_edition.md`).
+> Корпус хроники Петра де Сернэ, глава первая: **стр. 1–3 (до середины)** пагинации корпуса = PDF-стр. 33–35 подлинника (заканчивается над заголовком Cap. II). Первый текст самой хроники после Пролога (`3_Prologus_edition.md`).
 >
 > По трёхчастному плану Пролога — начало первой дистинкции (ересь и заражение юга); фактически глава вмещает и первое увещание (миссия легатов) — см. «Наблюдения».
 >
-> Транскрипция снята с рендеров 300 dpi (визионная вычитка по четырём половинным фрагментам + точечные сверки 600 dpi), сверена с OCR-слоем подлинника. Сокращения раскрыты; орфография (u/v, æ/œ, греческие слова) сохранена; спорные чтения — по скану, с пометой в аппарате.
+> Транскрипция снята с рендеров 300 dpi (визионная вычитка по половинным фрагментам + точечные сверки 450–600 dpi), сверена с OCR-слоем подлинника. Сокращения раскрыты; орфография (u/v, æ/œ, греческие слова) сохранена; спорные чтения — по скану, с пометой в аппарате.
 
 ---
 
@@ -47,7 +47,30 @@
 | Heu quam difficile est à consuetudine euelli¹⁶. | Увы, как трудно исторгнуться из укоренившегося обычая¹⁶! |
 | Hæc Tolosa, tota dolosa¹⁷, à prima sui fundatione (sicut asseritur) rarò vel vnquam expers huius pestis vel pestilentiæ detestabilis, huius hæreticæ prauitatis, à patribus in filios successiue, veneno superstitiosæ infidelitatis diffuſo. | Эта Тулуза — вся лукава¹⁷ — от самого своего основания (как утверждают) редко а никогда ли бывала свободна от сей скверны, от гнусной заразы сей еретической порчи, преемственно, от отцов к сыновьям, распространявшейся с пролитием яда суеверного неверия. |
 | Quamob rem & ipsa in vindictam tanti sceleris, tantum dicitur iam dudum sustinuisse manus ultricis & iustæ depopulationis excidium, vt in ipso meditulio ciuitatis, sulcata vomeribus planities pateret agrorum¹⁸. | Потому и она самой, в отмщение столь великого злодеяния, некогда — сказывают — претерпела столько мстящей и праведной длани, столько опустошения и разгрома, что посреди самой столицы бороздами плугов отверзалась равнина полей¹⁸. |
-| Unus etiam de regibus suis inclytis, qui tunc temporis in ipſa regnabant, Alaricus vt creditur nomine, in extremum dedecus, pro foribus vrbis eiusdem, est suspensus in patibulo¹⁹ ⟨окончание -lo — на стр. 3⟩ | Один даже из славных королей её, в ней тогда царствовавших, — Аларик, как передают, именем, — во крайнее бесчестье, пред вратами того града повешен был на виселице¹⁹. |
+| Unus etiam de regibus suis inclytis, qui tunc temporis in ipſa regnabant, Alaricus vt creditur nomine, in extremum dedecus, pro foribus vrbis eiusdem, est suspensus in patibulo¹⁹ ⟨перенос → стр. 3⟩ | Один даже из славных королей её, в ней тогда царствовавших, — Аларик, как передают, именем, — во крайнее бесчестье, пред вратами того града повешен был на виселице¹⁹. |
+
+---
+
+## Страница 3 (верх корпуса — до заголовка Cap. II)
+
+*Фолио «3», колонтитул `Historia Albigensium.` Продолжение и конец Cap. I: Тулуза как источник заразы для соседей. На поле — маргиналия Камюза `[К2]` (Ювенал). Затем, после разделительной линейки, — курсивный заголовок «De sectis Hæreticorum.» с маркером `CAP. II.` (начало следующей главы).*
+
+| Латынь (стр. 3) | Русский |
+|---|---|
+| ‑lo. Huius antiquæ viscositatis foetu infectum genimem prædictæ ciuitatis, genimen viperum, non poterat etiam nunc temporibus nostris, à suæ peruersitatis radice diuelli: | …на висели‑це. Потомство древней той клейкости, зачатое в скверне, — порождение города того, порождение змеиное²⁰ — и доныне, во времена наши, не могло быть искоренено от корня своего развращения: |
+| quinimò naturam hæreticam, & hæresim vernalem, furca dignæ vltionis expulsam, vsquequaque passa in se recurrere: Patrissare fuit²¹, degenerare negans, Cuius vicinitatis exemplo, sicut uua conspecta, liuorem ducit ab uua: Et grex totus in aruis, vnius scabie cadit, & porrigine porci²²: | скорее уж сама природа еретическая, ересь весенняя²⁰, — изгнанная и достойная петли возмездия, — всюду, где ни претерпела изгнания, возвращалась в себя, отцам подражая²¹ и выродиться не желая. По примеру соседства её: как виноградина, завидев [соседнюю] гроздь, чернеет от виноградины, и всё стадо в полях валится от парши одной [овцы] и от струпа одной свиньи²², — |
+| Vicinæ vrbes & oppida, radicatis in se hæresiarchis, per eiusdem infidelitatis surculos pullulantes, inficiebantur mirabiliter & miserabiliter peste ista. | так соседние города и местечки, в которых укоренились ересиархи, побеги той же неверности пуская, поражаемы были дивно и бедственно язвою той. |
+| Barones terræ Prouinciales, fere omnes hæreticorum defensores & receptores effecti, ipsos amabant ardentius, & contra Deum & Ecclesiam defendebant. | Бароны провинции, почти все став защитниками и укрывателями еретиков, любили их пламеннейше и защищали — против Бога и Церкви. |
+
+**Сноски к странице 3**
+
+20. *viscositatis foetu… genimen viperum* — «клейкость» (вязкая слизь) как метафора греховного зачатия; *genimen viperum* — «порождение змеиное» (ср. Мф 3:7 / 12:34, «порождения ехиднины»); *hæresis vernalis* — «ересь весенняя»: изгнанная — возвращается, как весна.
+21. ⚠ **Тёмное место.** Напечатано *Patrissare fuit* (букв. сверено по увеличенному фрагменту; OCR-слой даёт «Patriffarefuit»). Слово тёмное: либо порча, либо редкий глагол на -issare по образцу *Græcissare* «подражать грекам» — тогда «оставалась отцовской» (ересь верна своим «отцам»; ср. преемственность «от отцов к сыновьям» ниже по тексту). К коллации с Гебеном–Лионом; ср. глоссу Камюза `[К1]` о несовершенных фразах.
+22. **Ювенал, Сатира II** (образ заразы примером): гроздь→виноградина; «*et grex totus in aruis / unius scabie cadit et porrigine porci*» — у Петра почти дословно. Маргиналия Камюза `[К2]` — ср. Ювенала в Cap. I (Сат. XIII): второй классик за две страницы.
+
+**Маргиналии стр. 3**
+
+- **[К2]** *(Камюза, на поле):* `Iuu. Saty. 2.` → «Ювенал, Сатира 2» — указание источника образа заражения (виноград, стадо, свинья).
 
 **Сноски к странице 2**
 
