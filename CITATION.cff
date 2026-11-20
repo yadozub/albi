@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Если вы используете этот перевод, пожалуйста, цитируйте его так, как указано ниже."
+type: dataset
+title: "Пётр де Сернэ. История Альбигейская: перевод с латинского с комментарием по изданию Никола Камюза (Труа, 1615)"
+authors:
+  - family-names: "Ильевич"
+    given-names: "Сергей"
+keywords:
+  - albigensian-crusade
+  - petrus-vallium-sarnaii
+  - historia-albigensium
+  - vaux-de-cernay
+  - cathars
+  - camusat
+  - latin
+  - russian-translation
+  - medieval-latin
+preferred-citation:
+  type: generic
+  title: "Пётр де Сернэ. История Альбигейская"
+  authors:
+    - family-names: "Ильевич"
+      given-names: "Сергей"
+  year: 2026
+  notes: "Перевод с латинского по изданию Никола Камюза (Труа, 1615), с историко-критическим комментарием; редакция Натальи Васильевой. Электронная публикация."
